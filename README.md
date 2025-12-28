@@ -47,6 +47,7 @@ Event registrations
 Serverless backend APIs
 
 **I — Implementation**
+<img width="1920" height="1200" alt="Screenshot 2025-12-28 154330" src="https://github.com/user-attachments/assets/64da3228-d3c1-42bd-bd18-0e46a4dde885" />
 
 All resources are provisioned using AWS CloudFormation, ensuring repeatable and consistent deployments.
 
@@ -75,6 +76,7 @@ Sample Request
   "email": "test@example.com",
   "message": "This is a test message"
 }
+<img width="1920" height="1200" alt="Screenshot 2025-12-28 170537" src="https://github.com/user-attachments/assets/7a26133e-78e1-4a88-b056-825f0358e8fb" />
 
 
 Successful Response
@@ -85,6 +87,7 @@ Successful Response
 
 
 Status Code: 200 OK
+<img width="1920" height="1200" alt="Screenshot 2025-12-28 170314" src="https://github.com/user-attachments/assets/643efdaa-8202-4c73-b0e2-a32c9aaa679d" />
 
 **L — Learning Outcomes**
 
@@ -113,6 +116,7 @@ Lambda execution failures
 API Gateway 5xx responses
 
 **D — Deployment & Validation**
+<img width="1920" height="1200" alt="Screenshot 2025-12-28 152518" src="https://github.com/user-attachments/assets/375549aa-b2ff-4709-8bf7-8c8e8fa16546" />
 
 ✔ CloudFormation stack completed successfully (CREATE_COMPLETE)
 ✔ API Gateway returns 200 OK
