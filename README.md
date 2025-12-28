@@ -1,5 +1,7 @@
 📬 **Serverless Contact Form on AWS**
-B — Build
+
+
+**B — Build**
 
 I built a fully serverless contact form backend on AWS using Infrastructure as Code (CloudFormation).
 The system exposes a REST API that accepts form submissions, stores them in DynamoDB, and sends notifications via SNS — without managing servers.
